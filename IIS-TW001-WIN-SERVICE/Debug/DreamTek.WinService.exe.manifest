@@ -133,7 +133,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>E0o+NZo/LFL9ytpeTjjyVYELkPpeYteg09zvbZ4X0kI=</dsig:DigestValue>
+        <dsig:DigestValue>5I4Cs4+HKFGYp7lID1kdPyH4VTHUmS1rRkAUlPSufxc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -210,14 +210,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="374784">
-      <assemblyIdentity name="Newtonsoft.Json" version="4.5.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="700336">
+      <assemblyIdentity name="Newtonsoft.Json" version="12.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7Cw2yGUUV56OlgckydX94nk/T9aL7VA7YvLFgLlthjw=</dsig:DigestValue>
+        <dsig:DigestValue>f5ErKKB8Im4L46z7L1fwUFOKugEA+h8L8sOfGh8dqBQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -230,13 +230,13 @@
       <dsig:DigestValue>C7ODy9qyigUoma58k+nOftJoRXPQwy+W0H5bq5ScELw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DreamTek.WinService.exe.config" size="3967">
+  <file name="DreamTek.WinService.exe.config" size="3985">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oEXvCtAWiL1WtizP9N9KeTAs3FO7DoqhXoCoQMfS33U=</dsig:DigestValue>
+      <dsig:DigestValue>HcZI+tY+0PXNoJT4tDEoU8GNY22bLvmB3cam3SVWCuk=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
