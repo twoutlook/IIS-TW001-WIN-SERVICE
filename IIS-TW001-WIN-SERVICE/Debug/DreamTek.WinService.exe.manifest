@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="DreamTek.WinService.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="DreamTek.WinService.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="DreamTek.WinService" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZpdnNCC/fd0otFBI+GaBHT9svZbfLuwRXU9S86yPjhg=</dsig:DigestValue>
+        <dsig:DigestValue>p6DYGn4uL8Ok3MUx9W3oM8V9cFIRD6orhi45spCEhJs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,7 +97,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oMC2OMXHNc0r/fGjfdHf/GfvBg+Ss8QII2piWEqHJR4=</dsig:DigestValue>
+        <dsig:DigestValue>BzTRkQtyqDphe6OFD/BfAEXRIkaa0tQ1CC9mCs9Slv4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eVaU9lhWZs4PE7lkwDS4/Lnov+BrUODBKQOTZL+xHBA=</dsig:DigestValue>
+        <dsig:DigestValue>di2fqlY3QcIAIwArREO7gjM/psXDDaUYQFf0mqLy7lg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>COI/OSBmCtUdHL5lrMelTippoCce+gpuQMd/3h5Unc8=</dsig:DigestValue>
+        <dsig:DigestValue>iqTNdM6h1bDU0Q+VBfMvVvH5KodJ4BNas0DInbMvvuM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -133,7 +133,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4PlcIaCsTzVhe1XUlQ6SG1EhIGoFg/8Xpp1F3u9mCgs=</dsig:DigestValue>
+        <dsig:DigestValue>HxxT+U8VR/5Uw41e4SWSuceaw5Kjmmq1pOXCS9pXA1Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FnidFsiWTKmbW4F184MxKzpGfTHt5A+ZKluZqVbr8js=</dsig:DigestValue>
+        <dsig:DigestValue>YDX+1Vz/khKDO5paaDEMLWlEpoqRn+nujaJtW/4lFPE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -157,7 +157,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4Godxd5QhBXCZBItGCiecwTPdbzHxcyHtTRFoYv2fGk=</dsig:DigestValue>
+        <dsig:DigestValue>6U9NyMuCOAm3Ko8ME8QIhnZi6gir18kk9U+VQexG8xQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
