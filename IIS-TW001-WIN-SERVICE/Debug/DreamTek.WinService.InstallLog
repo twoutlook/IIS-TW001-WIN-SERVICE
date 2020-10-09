@@ -411,3 +411,11 @@ System.Security.SecurityException: 不允许所请求的注册表访问权。
    logtoconsole = 
    logfile = C:\2020\projects\TAIWAY\0915\branches\Web\DreamTek.WinService\bin\Debug\DreamTek.WinService.InstallLog
    assemblypath = C:\2020\projects\TAIWAY\0915\branches\Web\DreamTek.WinService\bin\Debug\DreamTek.WinService.exe
+正在卸载程序集“C:\2020\projects\TAIWAY\0915\branches\Web\DreamTek.WinService\bin\Debug\DreamTek.WinService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\2020\projects\TAIWAY\0915\branches\Web\DreamTek.WinService\bin\Debug\DreamTek.WinService.InstallLog
+   assemblypath = C:\2020\projects\TAIWAY\0915\branches\Web\DreamTek.WinService\bin\Debug\DreamTek.WinService.exe
+正在移除 EventLog 源 DreakTekService。
+正在从系统中移除服务 DreakTekService...
+已成功地从系统中移除服务 DreakTekService。
