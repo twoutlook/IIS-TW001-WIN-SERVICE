@@ -121,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>77H0Algw5ho1GSZIwtqRAnjU2Dq2vjkPDx+Iv8/3EhM=</dsig:DigestValue>
+        <dsig:DigestValue>uO+v0gOakYlWdDjiAfRifETL3xgficHsPcO1LsO4R2g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -133,7 +133,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q4Bma+CsIObsOz52ZAIdeCImKEKiY5PFzWuAPfXL0xU=</dsig:DigestValue>
+        <dsig:DigestValue>SHgYIsHzsFZotGC61R53g6InZe1r6fZbJgg5ZRVB0eY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -230,13 +230,13 @@
       <dsig:DigestValue>C7ODy9qyigUoma58k+nOftJoRXPQwy+W0H5bq5ScELw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DreamTek.WinService.exe.config" size="3985">
+  <file name="DreamTek.WinService.exe.config" size="3996">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HcZI+tY+0PXNoJT4tDEoU8GNY22bLvmB3cam3SVWCuk=</dsig:DigestValue>
+      <dsig:DigestValue>eyBEKlFUHFMBswVqfNcBwAneLQX8lXTsxu2LrT2HZwA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
