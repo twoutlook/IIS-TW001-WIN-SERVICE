@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<xml>
+  <frequency>10</frequency>
+  <conn>
+    <conn1>Data Source=WMSDB;User ID=IDC_BANNINGER;Password=sa;</conn1>
+  </conn>
+  <path>D:/Work/Codes/IDC-BAN/branches/WMSWinService/bin/Debug/app.config</path>
+  <companyid>IDCJX10</companyid>
+  <entid>10</entid>
+  <connRight>Data Source=WMSDB;User ID=rightsuser2320;Password=sa;</connRight>
+</xml>
